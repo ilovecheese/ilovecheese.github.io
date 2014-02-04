@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://ilovecheese.github.io/atom.xml" rel="self"/>
   <link href="http://ilovecheese.github.io/"/>
-  <updated>2014-02-04T18:08:26-05:00</updated>
+  <updated>2014-02-04T18:14:28-05:00</updated>
   <id>http://ilovecheese.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hope This Shit Works]]></title>
+    <link href="http://ilovecheese.github.io/blog/2014/02/04/hope-this-shit-works/"/>
+    <updated>2014-02-04T18:08:51-05:00</updated>
+    <id>http://ilovecheese.github.io/blog/2014/02/04/hope-this-shit-works</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
