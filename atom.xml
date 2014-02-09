@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[The House of Cheese]]></title>
+  <link href="http://ilovecheese.github.io/atom.xml" rel="self"/>
+  <link href="http://ilovecheese.github.io/"/>
+  <updated>2014-02-08T11:32:12-05:00</updated>
+  <id>http://ilovecheese.github.io/</id>
+  <author>
+    <name><![CDATA[Cheesemaster]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress]]></title>
+    <link href="http://ilovecheese.github.io/blog/2014/02/08/octopress/"/>
+    <updated>2014-02-08T11:19:25-05:00</updated>
+    <id>http://ilovecheese.github.io/blog/2014/02/08/octopress</id>
+    <content type="html"><![CDATA[<p>This looks like it is <em>much</em> better than Wordpress. Also I&rsquo;ve now got my feet wet with <a href="www.github.com">Git</a> and <a href="www.ruby-lang.org">Ruby</a>.
+Trying to write in Markdown failed me at first, had trouble finding software or gedit plugins. Looks like a lot of people use Vi (will tackle that later).
+Currently I&rsquo;m using Eclipse with a Markdown plugin. Ruby is really fascinating to me how all the gems work. Makes me miss coding and the trill when it works as attended.
+While I was in middle school I spent a lot of time in VB3 writing applications for a popular online software.
+I like how <a href="www.codeacademy.com">codeacademy</a> is setup perhaps that&rsquo;s one of my next adventures.</p>
+
+<p><strong>More later, have a good day</strong></p>
+]]></content>
+  </entry>
+  
+</feed>
