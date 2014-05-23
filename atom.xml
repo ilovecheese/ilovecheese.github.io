@@ -1,44 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[The House of Cheese]]></title>
+  <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://ilovecheese.github.io/atom.xml" rel="self"/>
   <link href="http://ilovecheese.github.io/"/>
-  <updated>2014-02-12T15:54:12-05:00</updated>
+  <updated>2014-05-22T22:05:11-04:00</updated>
   <id>http://ilovecheese.github.io/</id>
   <author>
-    <name><![CDATA[Cheesemaster]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[First Tinker With SDR]]></title>
-    <link href="http://ilovecheese.github.io/blog/2014/02/12/first-tinker-with-sdr/"/>
-    <updated>2014-02-12T15:51:19-05:00</updated>
-    <id>http://ilovecheese.github.io/blog/2014/02/12/first-tinker-with-sdr</id>
-    <content type="html"><![CDATA[<p>Well I have been interested in HAM radio for years now and have been talking about getting hardware and my liscense.
-Recently I read <a href="http://blog.cyberexplorer.me/2014/01/sniffing-and-decoding-nrf24l01-and.html">sniffing-and-decoding-nrf24l01</a>.
-Figured this would get me back motivated for getting my license. I also found a cool application for tracking airplanes on <a href="http://youtu.be/HS38q3YXsY4">Hak5</a>.
-Have not tried the airplane one yet. The dongle that I ordered is not good quality, it requires me to hold pressure on the USB or it disconnects. I have a different one in route now. I also bought a antenna. More details on that later. If it does not work well I&rsquo;ll make my own. I have not had the best of luck running SDR# in mono in Linux yet (think it&rsquo;s from the random kernel detaches from the crappy design). Looking after I get licensed about getting a upconverter and just using a SDR setup on the HAM bands.</p>
-
-<p><em>Tootles for now!</em></p>
+    <title type="html"><![CDATA[Does This Work?]]></title>
+    <link href="http://ilovecheese.github.io/blog/2014/05/22/does-this-work/"/>
+    <updated>2014-05-22T22:04:56-04:00</updated>
+    <id>http://ilovecheese.github.io/blog/2014/05/22/does-this-work</id>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Octopress]]></title>
-    <link href="http://ilovecheese.github.io/blog/2014/02/08/octopress/"/>
-    <updated>2014-02-08T11:19:25-05:00</updated>
-    <id>http://ilovecheese.github.io/blog/2014/02/08/octopress</id>
-    <content type="html"><![CDATA[<p>This looks like it is <em>much</em> better than Wordpress. Also I&rsquo;ve now got my feet wet with <a href="www.github.com">Git</a> and <a href="www.ruby-lang.org">Ruby</a>.
-Trying to write in Markdown failed me at first, had trouble finding software or gedit plugins. Looks like a lot of people use Vi (will tackle that later).
-Currently I&rsquo;m using Eclipse with a Markdown plugin. Ruby is really fascinating to me how all the gems work. Makes me miss coding and the trill when it works as attended.
-While I was in middle school I spent a lot of time in VB3 writing applications for a popular online software.
-I like how <a href="www.codeacademy.com">codeacademy</a> is setup perhaps that&rsquo;s one of my next adventures.</p>
-
-<p><strong>More later, have a good day</strong></p>
+    <title type="html"><![CDATA[Hello Test]]></title>
+    <link href="http://ilovecheese.github.io/blog/2014/02/04/hello-test/"/>
+    <updated>2014-02-04T16:44:40-05:00</updated>
+    <id>http://ilovecheese.github.io/blog/2014/02/04/hello-test</id>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
